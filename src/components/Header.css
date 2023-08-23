@@ -1,0 +1,10 @@
+.Header {
+    height: 54px;
+    width: 100%;
+}
+
+.Header__Logo {
+    float: left;
+    margin: 5px 60px 0;
+    font-size: 30px;
+}
